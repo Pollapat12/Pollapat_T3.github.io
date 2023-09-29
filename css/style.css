@@ -44,7 +44,7 @@ body {
 
 a {
   text-decoration: none;
-  color: gold; }
+  color: inherit; }
 
 li {
   list-style: none; }

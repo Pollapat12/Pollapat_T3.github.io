@@ -250,7 +250,7 @@ textarea {
   background: #fafafa; }
   .about__content {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1.5fr;
     grid-gap: 10rem; }
     @media only screen and (max-width: 56.25em) {
       .about__content {
@@ -668,7 +668,7 @@ textarea {
     margin-right: 1.5rem;
     font-size: 1.6rem;
     background: rgba(153, 153, 153, 0.2);
-    border-radius: 5px;
+    border-radius: 10px;
     font-weight: 600;
     color: #777; }
 
